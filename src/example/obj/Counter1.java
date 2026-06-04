@@ -32,7 +32,7 @@ public void increment()
 	    		  tailCount.increment(); 
 	    	  }
 	      }
-	      System.out.println("Heads:  " + headCount.getValue());
-	      System.out.println("Tails:  " + tailCount.getValue());
+	      System.out.println("There were " + headCount.getValue() + " heads.");
+	      System.out.println("There were " + tailCount.getValue() + " tails.");
 	}
 }
