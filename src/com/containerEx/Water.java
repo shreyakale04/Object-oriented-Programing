@@ -1,7 +1,5 @@
 package com.containerEx;
 
-import example.obj.Main;
-
 public class Water {
 
 	static int maxWater(int[]arr){
